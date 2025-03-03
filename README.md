@@ -1,0 +1,2 @@
+# embedded_system_project
+用于嵌入式系统作业的开源仓库
